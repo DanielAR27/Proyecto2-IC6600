@@ -11,7 +11,7 @@
 |-----------------------------|------------|
 | Daniel Aleman Ruiz          | 2023051957 |
 | Joseph Arrieta Mora         | 2023020875 |
-| Sebastian Rodriguez Sanchez | 2023020875 |
+| Sebastian Rodriguez Sanchez | 2023074446 |
 
 ---
 
