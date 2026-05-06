@@ -1,0 +1,18 @@
+# Ignorar la carpeta de binarios compilados
+bin/
+
+# Ignorar los logs de pruebas
+logs/
+
+# Ignorar archivos de objetos (en caso de cambiar el Makefile)
+*.o
+*.out
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de editores de texto (VS Code, Vim, etc.)
+.vscode/
+*.swp
+*~
